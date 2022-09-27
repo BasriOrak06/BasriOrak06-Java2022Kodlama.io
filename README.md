@@ -1,2 +1,5 @@
 # BasriOrak06-Java2022Kodlama.io
-Kddlama.io sitesinde yer lana Java2022 eğitimleri ödevleridir 
+`Kddlama.io sitesinde yeralan Java2022 eğitimleri ödevleridir`
+- İlk hafta ödevleri 
+- İkinci hafta ödevleri
+![Kodloma.io](https://www.kodlama.io/?sa=off)
