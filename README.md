@@ -1,5 +1,11 @@
 # BasriOrak06-Java2022Kodlama.io
-`Kddlama.io sitesinde yeralan Java2022 eğitimleri ödevleridir`
-- İlk hafta ödevleri 
-- İkinci hafta ödevleri
-![Kodloma.io](https://www.kodlama.io/?sa=off)
+`Kodlama.io sitesinde yeralan Java2022 eğitimleri ödevleridir`
+# Installation
+https://github.com/BasriOrak06/BasriOrak06-Java2022Kodlama.io
+# Bu depoda Kodlama.io sitesinde yeralan (2022) Yazılım Geliştirici Yetiştirme Kampı - JAVA eğitimi ödevleri yer almaktadır.
+  - İlk hafta ödevleri 
+  - İkinci hafta ödevleri
+# Contributing
+Emgin Demiroğ ve Kodlama.io ekibine teşekkürler!*
+
+![Kodlama.io Logo](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://www.filepicker.io/api/file/4mZobU9NSRKr8UJADi4M)
